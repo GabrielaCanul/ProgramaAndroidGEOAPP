@@ -22,10 +22,12 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/texto_boton_cierto"/>
+            android:text="@string/texto_boton_cierto"
+            android:id="@+id/botton_cierto"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/texto_boton_falso"/>
+            android:text="@string/texto_boton_falso"
+            android:id="@+id/botton_falso"/>
     </LinearLayout>
 </LinearLayout>
