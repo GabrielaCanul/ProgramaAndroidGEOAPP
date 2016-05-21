@@ -5,4 +5,10 @@
     <string name="texto_boton_falso">Falso</string>
     <string name="texto_correcto">!Correcto¡</string>
     <string name="texto_incorrecto">!Incorrecto¡</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="texto_pregunta_1">¿La península de Yucatán está al norte de México?</string>
+    <string name="texto_pregunta_2">Nuestro Sistema Solar se encuentra en Galaxia Vía Láctea</string>
+    <string name="texto_pregunta_3">El Oceáno más grande de nuestro planeta es el Oceáno Paxífico</string>
+    <string name="texto_pregunta_4">Los vientos alisios soplan del norte al suroeste</string>
+    <string name="texto_pregunta_5">El estado más grande de nuestra República Méxivada es Sonora</string>
 </resources>
